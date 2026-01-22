@@ -10,6 +10,9 @@
         <class>sabatinoprovenza.entities.Location</class>
         <class>sabatinoprovenza.entities.Partecipazione</class>
         <class>sabatinoprovenza.entities.Persona</class>
+        <class>sabatinoprovenza.entities.Concerto</class>
+        <class>sabatinoprovenza.entities.GaraDiAtletica</class>
+        <class>sabatinoprovenza.entities.PartitaDiCalcio</class>
 
 
         <properties>
